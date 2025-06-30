@@ -10,6 +10,8 @@
 
 ## 🚀 Sobre mí
 
+<img align="right" width=150px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXQzd2hiZjFkNm1hdW1yYWwzM2J0eWhzbWRiMTRhb2t5bXhiemxyayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" />
+
 🔭 Actualmente soy estudiante de **Ingeniería en Desarrollo y Gestión de Software Multiplataforma**  
 🧠 Me encanta desarrollar soluciones que optimicen procesos y mejoren la eficiencia operativa  
 🤝 Disfruto colaborar en proyectos usando **metodologías ágiles** y promover la comunicación efectiva  
