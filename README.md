@@ -52,4 +52,4 @@ Estoy empezando mi camino como desarrolladora y siempre busco nuevos retos. Si t
 
 ---
 
-> “Comprometida con la mejora continua.”
+> Comprometida con la mejora continua.
